@@ -15,7 +15,10 @@ public class Vsoftware {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+      
         System.out.println("version 1.2");
+          System.out.println("hi shivangi");
+        
         // TODO code application logic here
     }
     
